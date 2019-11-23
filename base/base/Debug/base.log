@@ -1,1 +1,3 @@
-﻿  base.vcxproj -> C:\Users\ПК\source\repos\lab4\base\Debug\base.exe
+﻿  main.cpp
+c:\users\пк\source\repos\lab4\base\base\main.cpp(61): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  base.vcxproj -> C:\Users\ПК\source\repos\lab4\base\Debug\base.exe

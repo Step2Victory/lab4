@@ -56,6 +56,8 @@ void keyboard_input()
 
 int random(int a, int b, int l)
 {
+	if (a == b)
+		return a;
 	srand(time(NULL) + 1000000 * l);
 	return a + rand() % (b - a);
 }
